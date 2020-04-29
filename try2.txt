@@ -1,3 +1,4 @@
+location,percent
 Afghanistan,0.133590902
 Albania,0.005945217
 Algeria,0.194724102
