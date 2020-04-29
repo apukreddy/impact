@@ -1,0 +1,194 @@
+location,percent
+Afghanistan,0.133590902
+Albania,0.005945217
+Algeria,0.194724102
+American Samoa,0.102553107
+Andorra,0.07914248
+Angola,7.922774854
+Antigua and Barbuda,1.333867747
+Argentina,0.518100586
+Armenia,0.083879742
+Australasia,0.042587262
+Australia,0.044891578
+Austria,0.046686755
+Azerbaijan,0.041773132
+Bahamas,4.543295995
+Bahrain,0.3470935
+Bangladesh,0.071180904
+Barbados,0.900016516
+Belarus,0.251408005
+Belgium,0.056862182
+Belize,4.330654856
+Benin,2.245931492
+Bermuda,1.302072809
+Bhutan,1.974669505
+Bolivia,1.760654717
+Bosnia and Herzegovina,0.00415247
+Botswana,28.67029242
+Brazil,1.141908651
+Brunei,0.249055018
+Bulgaria,0.05077381
+Burkina Faso,1.446378816
+Burundi,3.206268168
+Cambodia,1.355386818
+Cameroon,11.94308556
+Canada,0.098020458
+Cape Verde,4.151997443
+Chad,3.366685548
+Chile,0.450119533
+China,0.33302148
+Colombia,1.127862328
+Comoros,0.036811005
+Congo,14.71839634
+Costa Rica,0.650951967
+Cote d'Ivoire,10.15553162
+Croatia,0.017587899
+Cuba,0.356847953
+Cyprus,0.024032714
+Czech Republic,0.021496216
+Democratic Republic of Congo,2.557074042
+Denmark,0.049692299
+Djibouti,11.76622361
+Dominica,0.73131079
+Dominican Republic,3.826773965
+Ecuador,1.252853325
+Egypt,0.012997174
+El Salvador,1.760916811
+Equatorial Guinea,24.37547992
+Eritrea,3.651048487
+Estonia,0.243676254
+Ethiopia,3.200645013
+Fiji,0.143765789
+Finland,0.011778387
+France,0.084848569
+Gabon,5.782682291
+Gambia,6.474641134
+Georgia,0.068024051
+Germany,0.049126425
+Ghana,6.888734602
+Greece,0.024604984
+Greenland,0.368301082
+Grenada,0.538956195
+Guam,0.343113761
+Guatemala,0.787515111
+Guinea,2.759010787
+Guinea-Bissau,9.296002534
+Guyana,3.530676204
+Haiti,4.357336985
+Honduras,0.142258321
+Hungary,0.032634374
+Iceland,0.038640697
+India,0.525853099
+Indonesia,0.412609243
+Iran,0.208362363
+Iraq,0.076086094
+Ireland,0.031786237
+Israel,0.0907755
+Italy,0.106225837
+Jamaica,2.176081815
+Japan,0.015076744
+Jordan,0.083486721
+Kazakhstan,0.191898655
+Kenya,16.784879
+Kiribati,0.048719382
+Kuwait,0.070122507
+Kyrgyzstan,0.550313881
+Laos,1.16223617
+Latvia,0.451642054
+Lebanon,0.334948474
+Lesotho,25.13845288
+Liberia,5.912961187
+Libya,0.300811158
+Lithuania,0.163906681
+Luxembourg,0.054570722
+Macedonia,0.008690648
+Madagascar,1.375042014
+Malawi,16.9600179
+Malaysia,0.957058695
+Maldives,0.06574668
+Mali,3.125287749
+Malta,0.040752845
+Marshall Islands,0.655904674
+Mauritania,0.096673274
+Mauritius,0.927870738
+Mexico,0.783807836
+Moldova,0.414826996
+Mongolia,0.093814126
+Montenegro,0.020912463
+Morocco,0.273533437
+Mozambique,24.17144689
+Myanmar,1.30621535
+Namibia,23.25540344
+Nepal,1.43272816
+Netherlands,0.036545605
+New Zealand,0.030606282
+Nicaragua,2.552520322
+Niger,1.132208726
+Nigeria,10.73953998
+North Korea,0.381423375
+Norway,0.035733701
+Oman,1.211201955
+Pakistan,0.375619288
+Panama,2.77415951
+Papua New Guinea,1.552228934
+Paraguay,2.33955766
+Peru,1.696636652
+Philippines,0.629713744
+Poland,0.036419239
+Portugal,0.44193693
+Puerto Rico,0.690794204
+Qatar,0.187162773
+Romania,0.063388238
+Russia,1.052042415
+Rwanda,4.350740474
+Saint Lucia,0.589186059
+Saint Vincent and the Grenadines,2.004896841
+Samoa,0.843848658
+Sao Tome and Principe,0.019513968
+Saudi Arabia,0.557420573
+Scotland,0.043073869
+Senegal,2.062537141
+Serbia,0.058600273
+Seychelles,0.75970206
+Sierra Leone,3.085162063
+Singapore,0.164786005
+Slovakia,0.007406446
+Slovenia,0.012428246
+Solomon Islands,0.682702579
+Somalia,1.663501782
+South Africa,28.45947221
+South Korea,0.049283682
+South Sudan,3.770024208
+Spain,0.170131783
+Sri Lanka,0.044516552
+Sudan,2.542914677
+Suriname,2.372338995
+Swaziland,24.81197513
+Sweden,0.024774811
+Switzerland,0.059412598
+Syria,0.009901618
+Taiwan,0.110256273
+Tajikistan,0.092894203
+Tanzania,8.271159058
+Thailand,4.151319041
+Timor,3.09075666
+Togo,7.691165734
+Tonga,0.175082488
+Trinidad and Tobago,1.935311597
+Tunisia,0.294523441
+Turkey,0.049808503
+Turkmenistan,0.301755171
+Uganda,11.15426226
+Ukraine,0.736046827
+United Arab Emirates,0.779342256
+United Kingdom,0.043416837
+United States,0.256966489
+United States Virgin Islands,0.715572786
+Uruguay,0.539790167
+Uzbekistan,0.293616884
+Vanuatu,0.607745206
+Venezuela,1.237258774
+Vietnam,1.889930956
+Yemen,0.23749735
+Zambia,18.41693992
+Zimbabwe,13.67310288
